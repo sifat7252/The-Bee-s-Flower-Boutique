@@ -39,10 +39,7 @@ padding-bottom: 30px;
     text-align: center;
     padding: 80px;
 
-}
-.info-text{
-    /* text-align: center;; */
-}
+
 .info-title{
 font-size: 30px;
 font-weight: bold;
@@ -75,13 +72,8 @@ color: #272727;
     align-items: center;
 }
 
-.fresh-flower{
-    /* padding: 80px 5px 80px 5px; */
-}
 
-.support-img{
-    /* padding: 80px 0px 80px 0px; */
-}
+
 .support-text{
     color: rgba(39, 39, 39, 0.80);
     text-align: center;
@@ -177,15 +169,23 @@ color: #272727;
     text-align: center;
     /* margin: 100px 50px; */
     margin: auto;
-    padding: 500px 250px;
+    padding: 0px 1000px 120px 200px ;
     background-repeat: no-repeat;
+    margin-bottom: 50px;
+
+
 
 }
+#suscribe-btn{
+    margin-top: 10px;
+}
+
+
 .subscribe-page{
     
     text-align: center;
-    width: 20%;
-    margin: auto;
+    /* width: 20%; */
+    /* margin: auto; */
 }
 
 .footer-text{
@@ -204,5 +204,3 @@ color: #272727;
 .copyright{
     padding-top: 5px;
 }
-
-
