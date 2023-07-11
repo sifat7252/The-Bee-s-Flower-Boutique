@@ -34,3 +34,42 @@ padding-bottom: 30px;
 .btn:hover{
     color: blue;
 }
+.section2-container{
+    text-align: center;
+    padding: 80px;
+}
+.info-text{
+    /* text-align: center;; */
+}
+.info-title{
+font-size: 30px;
+font-weight: bold;
+padding-bottom: 25px;
+}
+.info-discription{
+font-size: 18px;
+color: #272727;
+}
+.section2-photos{
+    display: flex;
+    justify-content: space-between;
+}
+
+.support-delivery{
+    background-color: rgba(39, 39, 39, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}.delivery{
+    padding: 80px 5px 80px 10px;
+}
+.fresh-flower{
+    padding: 80px 5px 80px 5px;
+}
+.support-img{
+    /* padding: 80px 0px 80px 0px; */
+}
+.support-text:hover{
+    color: blue;
+}
+
