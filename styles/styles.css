@@ -2,3 +2,35 @@
     margin: 0;
     padding: 0;
 }
+.banner1-container{
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+    
+
+}
+.banner1-title{
+    color: #272727;
+    width: 700px;
+    font-size: 80px;
+    font-weight: 800;
+    padding-bottom: 30px;
+}
+.banner1-pera{
+font-size: larger;
+padding-bottom: 30px;
+}
+.btn{
+    background-color:#E55473 ;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    gap: 10px;
+    color: white;
+    
+}
+.btn:hover{
+    color: blue;
+}
